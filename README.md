@@ -4,7 +4,7 @@ This is the repository for all Pattern Recognition (EC-416) laboratory experimen
 
 | No. | Experiment Name | Submission Date | Solution Link |
 |:---:|-----------------|:---------------:|:-------------:|
-| 1.  | Fit a Curve Using Linear Regression | 19th Feb 2021 | | 
+| 1.  | Fit a Curve Using Linear Regression | 19th Feb 2021 | [📄](curve-fitting-linear-regression/curve-fitting-linear-regression.ipynb) | 
 | 2.  | Gaussian Curve Fitting | 26th Feb 2021 | | 
 | 3.  | Bayesian Curve Fitting | 5th March 2021 | | 
 | 4.  | Compute the KL Divergence of Noise Free and Noisy Image and also compute Entropy | 5th March 2021 | | 
