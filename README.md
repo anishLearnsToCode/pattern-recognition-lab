@@ -13,3 +13,5 @@ This is the repository for all Pattern Recognition (EC-416) laboratory experimen
 | 7.  | Commute Various Distributions on Audio Samples | 2nd April 2021 | | 
 | 8.  | Mixture of Gaussian Method for Representing a Non Linear Curve | 9th April 2021 | | 
 | 9.  | Bias/Variance Decomposition of Stationary Random Signal | 16th April 2021 | | 
+
+[📄]()
