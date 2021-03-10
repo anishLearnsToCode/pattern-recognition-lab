@@ -11,5 +11,5 @@ This is the repository for all Pattern Recognition (EC-416) laboratory experimen
 | 5.  | Compute Dirichlet Distribution of Given Data | 19th March 2021 | [📄](labs/dirichlet-distribution/dirichlet-distribution.ipynb) | 
 | 6.  | Compute Mahalanobis Distance Between Polygons | 26th March 2021 | [📄](labs/mahalanobis-distance/mahalanobis-distance.ipynb) | 
 | 7.  | Commute Various Distributions on Audio Samples | 2nd April 2021 | | 
-| 8.  | Mixture of Gaussian Method for Representing a Non Linear Curve | 9th April 2021 | | 
+| 8.  | Mixture of Gaussian Method for Representing a Non Linear Curve | 9th April 2021 | [📄](labs/mixture-of-gaussian/mixtures-of-gaussians.ipynb) | 
 | 9.  | Bias/Variance Decomposition of Stationary Random Signal | 16th April 2021 | | 
