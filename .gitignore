@@ -5,17 +5,20 @@ out
 dist
 *.iml
 
-curve-fitting-linear-regression/__pycache__
-curve-fitting-linear-regression/.ipynb_notebooks
+labs/curve-fitting-linear-regression/__pycache__
+labs/curve-fitting-linear-regression/.ipynb_checkpoints
 
-gaussian-curve-fitting/__pycache__
-gaussian-curve-fitting/.ipynb_notebooks
+labs/gaussian-curve-fitting/__pycache__
+labs/gaussian-curve-fitting/gaussian_curve_fitting.m
 
-bayesian-curve-fitting/__pycache__
-bayesian-curve-fitting/.ipynb_notebooks
+labs/bayesian-curve-fitting/__pycache__
+labs/bayesian-curve-fitting/.ipynb_checkpoints
 
-kl-divergence-entropy/__pycache__
-kl-divergence-entropy/.ipynb_notebooks
+labs/kl-divergence-entropy/__pycache__
+labs/kl-divergence-entropy/.ipynb_checkpoints
 
-dirichlet-distribution/__pycache__
-dirichlet-distribution/.ipynb_checkpoints
+labs/dirichlet-distribution/__pycache__
+labs/dirichlet-distribution/.ipynb_checkpoints
+
+labs/mahalanobis-distance/__pycache__
+labs/mahalanobis-distance/.ipynb_checkpoints
